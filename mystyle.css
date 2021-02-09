@@ -1,12 +1,12 @@
 html,
 
 body {
-	background-color: lavender;
+	background-color: #E6E6FA;
 }
 
 h1 {
 	font-family: "Lucida Console", "Courier New", monospace;
-	font-size: 30;
+	font-size: 35;
 }
 
 h2 {
