@@ -5,5 +5,8 @@ body {
 h1 {
 	font-family: "Lucida Console", "Courier New", monospace;
 	font-size: 20;
+}
+
+h2 {
 	border: solid;
 }
