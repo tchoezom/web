@@ -57,6 +57,7 @@ nav {
 }
 
 .picture1 img {
+	float: left;
 	padding-right: 10px;
 	width: 30%;
 	height: 30%;
