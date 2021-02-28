@@ -57,7 +57,6 @@ nav {
 }
 
 .picture1 img {
-	float: left;
 	padding-right: 10px;
 	width: 30%;
 	height: 30%;
@@ -83,3 +82,13 @@ nav {
 	width: 40%;
 	height: 40%;
 }  
+
+.ex img {
+	padding-left: 5px;
+	width: 20%;
+	height: 20%;
+}
+
+hr {
+	border: 1px dashed black;
+}
