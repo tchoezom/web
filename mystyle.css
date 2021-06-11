@@ -18,20 +18,18 @@ p {
 	font-size: 18px;
 }
 
-
 .picture1 img {
 	float: right;
-	padding-left: 10px;
-	width: 10%;
+	padding-right: 5px;
+	width: 15%;
 }
 
 .picture2 img {
-	float: left;
-	padding-right: 10px;
-	width: 40%;
-	height: 60%;
+	align: left;
+    width: 45%;
 }
 
-.picture3 img {
-	padding-left: 20px;
+.tab {
+	margin-left: 20px;
+	font-size: 18px;
 }
